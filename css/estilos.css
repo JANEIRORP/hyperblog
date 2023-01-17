@@ -1,8 +1,8 @@
 body
 {
-text-align: center;
+text-align: left;
 font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-color: green;
+color: rgba(29, 190, 211, 0.986);
 margin: 0;
 padding: 0;
 font-size: larger;
